@@ -1,0 +1,57 @@
+
+
+body {
+  height: 70vh;
+  width: 100vw;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+h3{
+  font-size: 80px;
+  margin: -11px;
+  color: black;
+  
+}
+html{
+  scroll-behavior: smooth;
+}
+
+h2{
+  font-weight: 700;
+  font-size: 70px;
+  color: antiquewhite;
+  padding-left: 29px;
+}
+h9{
+  font-weight: 700;
+  font-size: 63px;
+  color: red;
+  padding-left: 29px;
+}
+p{
+  font-weight: 500;
+  font-size: 0px;
+}
+a{
+  font-weight: 900 ;
+  font-size: 31px;
+}
+h4{
+  font-size: 31px;
+  color: antiquewhite;
+  padding-left: 28px;
+  padding-right: 43px;
+}
+
+h10{
+  font-size: 27px;
+  color: antiquewhite;
+  padding-left: 29px;
+}
+
+
+
+code {
+  font-family: 'Ubuntu', sans-serif;
+}
+

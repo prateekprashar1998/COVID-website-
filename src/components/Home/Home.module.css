@@ -1,0 +1,32 @@
+.Home {
+background: white;
+
+height: 630px;
+padding-top: 117px;
+}
+.Home .container h1{
+    margin: -2%;
+    padding-bottom: 11px;
+    font-size: 42px;
+    position: relative;
+    top: 44px;
+    color: black;
+}
+
+    
+
+.Home .container {
+    position: absolute;
+    top:32%;
+    left:5%;
+    color:white;
+
+}
+
+.Binary{
+    height: 69%;
+    position: absolute;
+    right: 4%;
+    top: 7%;
+}
+

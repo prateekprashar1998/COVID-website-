@@ -1,0 +1,28 @@
+.AboutMe{
+    background-color:black;
+    padding-bottom: 5%;
+   
+}
+.AboutMe .Container .Photo{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center 
+    
+}
+.AboutMe .Container .Photo .Mem{
+    width:50%;    
+    border-radius: 10%;
+   
+}
+.AboutMe .Container{
+    display:flex;
+}
+.AboutMe .Container .Text ul li{
+    color: antiquewhite;
+    display: flex;
+
+    font-size: 32px;
+    
+}
+

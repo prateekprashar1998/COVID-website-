@@ -1,0 +1,78 @@
+.YouTube{
+    background-color: black;
+    position: relative;
+}
+.YouTube .Background{
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    right:0;
+    z-index:0;
+}
+.YouTube .Videos{
+    width:50%;
+    z-index: 0;
+
+}
+
+h7{
+    color:antiquewhite;
+    font-size: 24px;
+    font-weight: 600;
+
+    
+}
+h8{
+    color:antiquewhite;
+    font-size: 29px;
+    font-weight: 600;
+
+
+}
+.YouTube .YouTubeContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.YouTube .VideoContainer .Text{
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+.YouTube .Paragraph{
+    width:85% ;
+    color: antiquewhite;
+    z-index: 4;
+    padding:74px;
+}
+ .PlayButton svg {
+    position: absolute;
+    width: 480px;
+    height: 118px;
+    top: 80px;
+}
+
+ .PlayButton{
+    position: absolute;
+    width: 900%;
+}
+.YouTube .Videos .VideoContainer{
+    display: flex;
+    background:black;
+    margin-bottom: 5%;
+    height: 300px;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 0px 0px 9px 9px white;
+  
+} 
+.YouTube .VideoContainer .Thumbnail img {
+    float: left;
+    width:  495px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 17px;
+    align-items: center;
+
+    
+}
+

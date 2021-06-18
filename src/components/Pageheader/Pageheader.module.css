@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    font-size: 28px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2%;
+}
+ .container hr{
+     position:absolute;
+     left:0;
+     width:124px;
+     border: 0px solid #8C1CD1;
+ }
+ .container h1{
+     color: white;
+     justify-content: center;
+     align-items: center;
+     
+ }
